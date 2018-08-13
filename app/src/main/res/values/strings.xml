@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Practice</string>
+    <string name="home">主页</string>
+    <string name="message">咨讯</string>
+    <string name="mine">我的</string>
+    <string name="settings">设置</string>
 </resources>
